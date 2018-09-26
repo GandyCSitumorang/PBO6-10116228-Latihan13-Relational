@@ -7,9 +7,14 @@ package pbo6.pkg10116228.latihan13.relational;
 
 /**
  *
- * @author Rizki Adam Kurniawan
- */
-public class PBO610116228Latihan13Relational {
+ * @author 
+ *  Dosen   : Rizki Adam Kurniawan
+ *  Nama    : Gandy Christian Situmorang
+ *  kelas   : PBO6
+ *  NIM     : 10116228
+ *  deskripsi program    : Program ini berisi program latihan Relational
+ *
+ */public class PBO610116228Latihan13Relational {
 
     /**
      * @param args the command line arguments
